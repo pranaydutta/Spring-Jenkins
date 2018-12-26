@@ -13,7 +13,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 @SpringBootTest
 public class SpringJenkinsApplicationTests {
 	
-	public static Logger log=LoggerFactory.getLogger(SpringJenkinsApplication.class);
+	public static Logger log=LoggerFactory.getLogger(SpringJenkinsApplicationTests.class);
 
 	@Test
 	public void contextLoads() {
