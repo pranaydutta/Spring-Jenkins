@@ -16,7 +16,7 @@ public class SpringJenkinsApplicationTests {
 	public static Logger log=LoggerFactory.getLogger(SpringJenkinsApplicationTests.class);
 
 	@Test
-	public void contextLoads() {
+	public  contextLoads() {
 		log.info("Tets cases executing");
 		log.info("Added Tets cases executing");
 		assertEquals(true,true);	
