@@ -18,7 +18,7 @@ public class SpringJenkinsApplicationTests {
 	@Test
 	public void contextLoads() {
 		log.info("Tets cases executing");
-		
+		log.info("Added Tets cases executing");
 		assertEquals(true,true);	
 	}
 
